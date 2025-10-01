@@ -1,0 +1,8 @@
+/target/
+*.log
+*.class
+*.iml
+.idea/
+.DS_Store
+Thumbs.db
+
